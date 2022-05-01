@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jo-ken-pô</string>
+    <string name="option_stone">Pedra</string>
+    <string name="option_paper">Papel</string>
+    <string name="option_scissors">Tesoura</string>
+    <string name="option_machine">Escolha da Máquina</string>
+    <string name="text_userChoise">Sua escolha:</string>
+    <string name="text_machineChoise">Escolha da IA:</string>
+</resources>
